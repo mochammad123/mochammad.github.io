@@ -1,0 +1,25 @@
+{
+    "name": "Ball Point",
+    "short_name": "BP",
+    "description": "Aplikasi Classment Sebakbola",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#0d47a1",
+    "theme_color": "#0d47a1",
+    "icons": [
+      {
+        "src": "/aset/images/logos192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/aset/images/logos512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "gcm_sender_id": "779094513158"
+  }
+  
